@@ -61,3 +61,4 @@ Note: After tuning the Gunn source, the procedure for VSWR & Impedance measureme
 • Check the connections before switching on the kit. • Connections should be done properly. • Observation should be taken properly.
 
 ## Result:
+Thus, the V-I characteristics of Gunn diode is studied and verified experimentally.
